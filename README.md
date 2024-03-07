@@ -1,5 +1,5 @@
 # Website-Traffic-Analysis
-Using the Python libraries to plot and utilize statistical techniques to understand the traffic better, providing insights to enhance performance
+Using the Python libraries for ploting and applying statistical techniques to analyze traffic patterns, ultimately providing strategic insights through Decks to enhance overall performance.
 
 Tools: Python, CSV files
 
@@ -13,4 +13,5 @@ This analysis project will cover 6 parts:<br/>
 
 Files involved in this project:<br/>
 1. Dataset file(web_traffic)<br/>
-2. Jupyter Notebook Analysis
+2. Jupyter Notebook Analysis Procedure<br/>
+3. Final Presentation Slides
