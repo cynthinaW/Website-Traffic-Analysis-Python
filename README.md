@@ -1,7 +1,7 @@
 # Website-Traffic-Analysis
 Using the Python libraries for ploting and applying statistical techniques to analyze traffic patterns, ultimately providing strategic insights through Decks to enhance overall performance.
 
-Tools: Python, CSV files
+Tools: Python, Slides, CSV file
 
 This analysis project will cover 6 parts:<br/> 
 1. How many total pageview events did the links in the provided dataset receive in the full period, how many per day?<br/> 
