@@ -8,7 +8,8 @@ This analysis project will cover 6 parts:<br/>
 2. What about the other recorded events?<br/> 
 3. Which countries did the clicks come from? what are the top 5 countries?<br/> 
 4. What was the overall click rate (clicks/pageviews) by link and by day of the week?<br/> 
-5. How does the clickrate distribute across different links?<br/> 
+5. How does the clickrate distribute across different links?<br/>
+6. Is there any correlation between clicks and previews on a link? Is it significant? How large is the effect?
 
 
 Files involved in this project:<br/>
